@@ -1,0 +1,5 @@
+geopy==2.4.1
+pandas==2.2.2
+pydeck==0.9.1
+pygame==2.6.0
+streamlit==1.36.0
