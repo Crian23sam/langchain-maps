@@ -1,5 +1,4 @@
-geopy==2.4.1
-pandas==2.2.2
-pydeck==0.9.1
-pygame==2.6.0
-streamlit==1.36.0
+streamlit==1.26.0
+google-api-python-client==2.100.0
+python-dotenv==1.0.0
+groq  # Verify and replace with the correct version if available on PyPI
